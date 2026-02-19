@@ -1,43 +1,47 @@
-# Hi, I’m ZtotheZ 👋
+# Hi, I’m ZtotheZ
 
-Cybersecurity-focused builder with a strong interest in SOC workflows, detection engineering, and practical security tooling.
+I build practical security tooling with a focus on SOC workflows, detection engineering, and endpoint visibility.
 
-I build:
-- SIEM and endpoint visibility labs
-- Small defensive and network-security tools
-- Browser extensions that speed up OSINT and investigations
+My work centers around understanding how telemetry is generated, collected, and turned into actionable signals.
 
-## Start here (selected work)
+## Selected Work
 
 ### SIEM & Monitoring
-- **Security-Monitoring-SIEM-Setup**  
-  Endpoint log collection and analysis using Sysmon, Winlogbeat, and Filebeat.
 
-- **Building-a-Cloud-Based-SIEM-with-Elastic-Stack**  
-  Elastic Stack configurations for centralized security monitoring across Windows and Linux.
+**Security-Monitoring-SIEM-Setup**
+Endpoint log collection and event analysis using Sysmon, Winlogbeat, and Filebeat.
 
-### Security tooling (Python)
-- **Endpoint-monitoring-tools**  
-  Lightweight scripts for disk, memory, load, and service monitoring.
+**Building-a-Cloud-Based-SIEM-with-Elastic-Stack**
+Elastic Stack configurations for centralized log ingestion, parsing, and security monitoring across Windows and Linux systems.
 
-- **Defensive-security-tools**  
-  Small defensive and analysis utilities supporting blue-team workflows.
+### Security Tooling (Python)
 
-- **Network-security-labs**  
-  Educational network-security PoCs for understanding attacks and detections in lab environments.
+**Endpoint-monitoring-tools**
+Lightweight host telemetry scripts covering disk, memory, load, and service monitoring.
 
-### Browser extensions (OSINT)
-- **ShodanLookup**
-- **VirusTotal-Lookup**
-- **AbuseIPDBCheck**
-- **Windows-Security-Event-Log-lookup**
+**Defensive-security-tools**
+Small defensive utilities supporting blue-team analysis and experimentation.
 
-## Focus areas
-- Endpoint telemetry and SIEM pipelines
-- Detection and investigation fundamentals
-- Python and JavaScript security tooling
-- Network security concepts
+**Network-security-labs**
+Lab-based network security scenarios focused on understanding attacks, traffic inspection, and detection techniques.
+
+### Browser Extensions (OSINT & Investigation)
+
+**ShodanLookup**
+**VirusTotal-Lookup**
+**AbuseIPDBCheck**
+**Windows-Security-Event-Log-lookup**
+
+Browser-based tooling designed to reduce friction during IOC validation, infrastructure analysis, and investigation workflows.
+
+## Focus Areas
+
+* Endpoint telemetry and SIEM pipelines
+* Detection engineering fundamentals
+* Python and JavaScript security tooling
+* Network security and traffic analysis
 
 ## Links
-- Website: https://ztothez.com/
-- GitHub: https://github.com/ztothez
+
+Website: [https://ztothez.com/](https://ztothez.com/)
+GitHub: [https://github.com/ztothez](https://github.com/ztothez)
