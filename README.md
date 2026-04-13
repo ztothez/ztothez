@@ -44,7 +44,7 @@ Lightweight extensions for IOC validation, infrastructure intelligence, and inve
 
 ## Links
 Website: [ztothez.com](https://ztothez.com/)
-GitHub: [github.com/ztothez](https://github.com/ztothez)
+LinkedIn: [linkedin.com/in/roosayoruusu](www.linkedin.com/in/roosayoruusu)
 
 ---
 
