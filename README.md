@@ -1,6 +1,6 @@
 # Hi, I'm Roosa
 
-I build AI systems and software tools end-to-end — from multi-agent pipelines and LLM integrations to Python backends, REST APIs, and automation workflows. My background is in cybersecurity, which shapes how I think about reliability, failure modes, and systems that have to work unsupervised.
+I build AI systems and software tools end-to-end - from multi-agent pipelines and LLM integrations to Python backends, REST APIs, and automation workflows. My background is in cybersecurity, which shapes how I think about reliability, failure modes, and systems that have to work unsupervised.
 
 MSc student in Cyber Security Engineering at the University of Turku.
 
@@ -12,7 +12,7 @@ Multi-agent infrastructure audit system. A configuration agent inspects Terrafor
 ### [Emma Voice Assistant](https://github.com/ztothez/Emma-Voice-Assistant)
 Fully local voice assistant built from scratch. faster-Whisper for speech recognition, Ollama for LLM inference, Piper TTS for voice output, FastAPI web interface with browser microphone support. No cloud APIs. Supports custom fine-tuned models via Ollama Modelfiles.
 
-### [RPS League — Python Full-Stack](https://github.com/ztothez/rps-league-app-python-fullstack)
+### [RPS League - Python Full-Stack](https://github.com/ztothez/rps-league-app-python-fullstack)
 Production-style FastAPI backend with SQLAlchemy, cursor-based sync, async httpx with retry/backoff, SSE live feed, input validation, and CI smoke tests on every push.
 
 ### [Pipe Production & Inventory System](https://github.com/ztothez/inventory)
@@ -26,7 +26,7 @@ Private client project. FastAPI + SQLite system linking work orders to pipe and 
 Lightweight extensions for IOC validation and infrastructure intelligence. Privacy-first, no data collection.
 
 ### Security Research
-**Bug-bounty-pocs** — sanitized PoCs from web security research: CORS misconfigurations, OS command injection, cryptographic weaknesses.
+**Bug-bounty-pocs** - sanitized PoCs from web security research: CORS misconfigurations, OS command injection, cryptographic weaknesses.
 
 ## Focus Areas
 - Agentic AI systems and multi-agent orchestration
