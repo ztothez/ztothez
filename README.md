@@ -6,6 +6,9 @@ MSc student in Cyber Security Engineering at the University of Turku.
 
 ## Featured Projects
 
+### AegisOps AI
+4-agent purple-team copilot built for the AMD Developer Hackathon 2026. LangGraph pipeline transforms MITRE ATT&CK techniques into Sigma detection rules, SOC response guidance, and validation scores. Runs live on AMD Instinct MI300X via vLLM on ROCm. Built with Python, Streamlit, LangGraph, and MITRE ATT&CK v14.
+
 ### [Azure Optimizer](https://github.com/ztothez/azure-optimizer)
 Multi-agent infrastructure audit system. A configuration agent inspects Terraform IaC for missing guardrails, a metrics agent analyzes operational data, and a supervision agent calls the Anthropic API to synthesize findings into an actionable audit report. Built with Python, Streamlit, and the Anthropic SDK.
 
