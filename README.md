@@ -6,6 +6,9 @@ MSc student in Cyber Security Engineering at the University of Turku.
 
 ## Featured Projects
 
+### [AI Insight Engine](https://github.com/ztothez/AI-Insight-Engine)
+Production-oriented Code Quality & Security Auditor built on RAG, LLM agents, and vector search. FastAPI backend with async Python, pgvector semantic search over 20,875 embeddings from 8 security books, Llama 3.3 70B via Together.ai for grounded analysis with citations. LangGraph ReAct agent with custom tools, Pydantic validation of LLM output, systematic evaluation pipeline with 15 OWASP and clean code test cases. Built with FastAPI, LangGraph, pgvector, and Together.ai.
+
 ### [AegisOps AI](https://github.com/ztothez/aegisops-ai)
 4-agent purple-team copilot built for the AMD Developer Hackathon 2026. LangGraph pipeline transforms MITRE ATT&CK techniques into Sigma detection rules, SOC response guidance, and validation scores. Runs live on AMD Instinct MI300X via vLLM on ROCm. Built with Python, Streamlit, LangGraph, and MITRE ATT&CK v14.
 
