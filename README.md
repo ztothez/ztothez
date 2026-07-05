@@ -15,7 +15,7 @@ Fully local voice assistant built from scratch. faster-Whisper for speech recogn
 ### [RPS League - Python Full-Stack](https://github.com/ztothez/rps-league-app-python-fullstack)
 FastAPI backend with SQLAlchemy, cursor-based sync, async httpx with retry/backoff, SSE live feed, input validation, and CI smoke tests on every push.
 ### [Pipe Production & Inventory System](https://github.com/ztothez/Inventory)
-Private client project. FastAPI + SQLite system linking work orders to pipe and material inventory. Tracks consumption, scrap, and reusable remnants with a full audit trail. Deployed on Linux with nginx and systemd. Includes authentication, CSRF protection, and a full handover package.
+Paying client delivery; client identity remains private, repo published with permission. FastAPI + SQLite system linking work orders to pipe and material inventory. Tracks consumption, scrap, and reusable remnants with a full audit trail. Deployed on Linux with nginx and systemd. Includes authentication, CSRF protection, and a full handover package.
 ## Other Work
 ### Browser Extensions (live on Firefox & Chrome)
 **ShodanLookup** · **VirusTotal-Lookup** · **AbuseIPDBCheck** · **Windows-Security-Event-Log-lookup**
