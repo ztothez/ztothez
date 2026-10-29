@@ -7,7 +7,7 @@ Finishing MSc in **Information Technology** at the University of Turku (Robotics
 ### [ZtotheZ Design Engineering](https://github.com/ztothez/ztothez-design-engineering)
 Open-source MCP server and deterministic quality gate for AI-built UI. Turns product intent, interface truth, information hierarchy, accessibility, and browser evidence into enforceable, evidence-backed contracts. 20 scoped MCP tools, automated repository audits, browser verification, and 168 automated tests.
 
-### [SceneStart](https://ztothez.com/)
+### [SceneStart](https://scenestart.ztothez.com/)
 Browser-based demoscene builder for beginners, designed and built solo in 20 hours. Onboarding, 21 learning paths, real-time effects, empty and error states, and offline export. TanStack Start, React 19, TypeScript, and Canvas API, no backend. 2nd place at the Assembly Summer 2026 Fix It Competition. Source is not public; see the live app on my website.
 
 ### [AI Insight Engine](https://github.com/ztothez/AI-Insight-Engine)
